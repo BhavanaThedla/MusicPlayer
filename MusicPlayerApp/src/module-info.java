@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author indut
+ *
+ */
+module MusicPlayerApp {
+}
